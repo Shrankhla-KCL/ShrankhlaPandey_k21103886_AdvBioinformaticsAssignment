@@ -1,6 +1,6 @@
 ---
 title: "ShrankhlaPandey_k21103886_AdvBioinformaticsAssignment"
-output: github_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
